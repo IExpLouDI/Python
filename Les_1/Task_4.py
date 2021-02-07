@@ -5,5 +5,5 @@ while usernum > 0:
         max = usernum % 10
     usernum = usernum // 10
 
-print("Самая большая цифра это %d" %(max))
+print(f"Самая большая цифра это {max}")
 
