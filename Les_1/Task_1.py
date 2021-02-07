@@ -5,6 +5,3 @@ print(c)
 a = input("Pls enter your name: ")
 b = int(input("How old are you? "))
 print("Hello Mr. %s. Your age is %d "%(a, b))
-:wd
-
-
